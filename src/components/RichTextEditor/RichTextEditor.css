@@ -1,0 +1,12 @@
+.ql-editor {
+    min-height: 10rem;
+  }
+  
+  .ql-toolbar {
+    border-radius: 0.5rem 0.5rem 0 0;
+  }
+  
+  .ql-container {
+    border-radius: 0 0 0.5rem 0.5rem;
+  }
+  
